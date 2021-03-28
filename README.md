@@ -8,8 +8,7 @@ $ python submission.py
 ```
 <br>
 Here I have presented a combinatorial optimisation approach for even-odd number classification from an array of integers. Implementation with Fixstars Amplify and Fixstars D-wave has been shown. At the conclusion the accuracy and performance analysis is given with vanilla D-wave implementation. <br>
-For detail please visit jupyter notebook file. 
-<br>
+For detail please visit jupyter notebook file. <br>
 ![alt text](https://github.com/speQtrum/Fixstars_Amplify_Hackathon_2021/blob/main/result.png) <br>
 
 ### **Conclusion**
