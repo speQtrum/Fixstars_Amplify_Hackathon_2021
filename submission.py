@@ -70,7 +70,7 @@ def QUBO(D):
 #########################################################################
 choice = int(input("Do you want to choose random or custom input? If random press 0, if custom press 1\n\n" ))
 if choice == 0:
-    n = 10
+    n = 10  # for simplicity and to avoid error
     N = np.random.randint(1,100,n) 
     print("{} random integers are:\n{}".format(n,N))
 elif choice ==1:
