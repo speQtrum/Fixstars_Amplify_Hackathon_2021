@@ -4,6 +4,7 @@ Application submission repository for Fixstars Amplify Hackathon 2021
 ![alt text](https://code4coding.com/wp-content/uploads/2019/03/evenoddarray.jpg) <br>
 Here I have presented a combinatorial optimisation approach for even-odd number classification from an array of integers. Implementation with Fixstars Amplify and Fixstars D-wave has been shown. At the conclusion the accuracy and performance analysis is given with vanilla D-wave implementation. <br>
 <br>
+![alt text](https://raw.githubusercontent.com/speQtrum/Fixstars_Amplify_Hackathon_2021/main/result.png) <br>
 
 ### **Conclusion**
 This approach provides a new way of separating even-odd numbers from an array using combinatorial optimisation method and provides promising result like classical. <br>
