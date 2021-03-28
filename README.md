@@ -2,6 +2,10 @@
 Application submission repository for Fixstars Amplify Hackathon 2021
 ### Even Odd Classification using Combinatorial Approach
 ![alt text](https://code4coding.com/wp-content/uploads/2019/03/evenoddarray.jpg) <br>
+`` `shell
+$ python sudoku_sample_amplify.py
+`` ```
+<br>
 Here I have presented a combinatorial optimisation approach for even-odd number classification from an array of integers. Implementation with Fixstars Amplify and Fixstars D-wave has been shown. At the conclusion the accuracy and performance analysis is given with vanilla D-wave implementation. <br>
 For detail please visit jupyter notebook file. 
 <br>
