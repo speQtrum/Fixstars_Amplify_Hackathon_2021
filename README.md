@@ -12,5 +12,5 @@ This approach provides a new way of separating even-odd numbers from an array us
 Vanilla D-wave implementation link with 500 integer inputs: https://colab.research.google.com/drive/1LJba0qFKqg8-8lFHlvn-9AZ1gb4MUBhg?usp=sharing
 
 <br>
-Reproduction of results for scientific paper publication is strictly prohibited without permission. 
+Reproduction of results for scientific paper publication is strictly prohibited without permission. <br>
 #### ©2021 Aniruddha Biswas. All rights reserved.
