@@ -13,4 +13,4 @@ Vanilla D-wave implementation link with 500 integer inputs: https://colab.resear
 
 <br>
 Reproduction of results for scientific paper publication is strictly prohibited without permission. <br>
-#### ©2021 Aniruddha Biswas. All rights reserved.
+©2021 Aniruddha Biswas. All rights reserved.
