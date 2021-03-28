@@ -107,7 +107,7 @@ client.parameters.outputs.num_outputs = 0
 solver = Solver(client)
 result = solver.solve(model)
 for solution in result:
-    print(f"values = {list(solution.values.values())} energy = {solution.energy} frequency = {solution.frequency}")
+    print(f"\n\nvalues = {list(solution.values.values())} energy = {solution.energy} frequency = {solution.frequency}")
 
 best_solution = Best_solution(result)
 print('\n\nInput numbers:',N)
