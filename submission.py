@@ -14,7 +14,7 @@ def Best_solution(result):         ## finds best sample from multiple samples
     sols = []                      ## based on highest frequency of occurrence
     for i in range(len(result)):
         y = result[i]
-        x = list(y.values.values())
+        x = [v for k, v in sorted(y.values.items())]
         e = y.energy
         f = y.frequency
         z = {'x':x,'energy':e,'frequency':f}
