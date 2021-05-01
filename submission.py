@@ -96,7 +96,6 @@ model = BinaryQuadraticModel(qubo)  # Converting Binary matrix into amplify nati
 ################################### client setup   ############################
 
 client = FixstarsClient()
-client.token = "mBle_KURyYutT.NDbsTpovEeCWf-vScH"
 client.parameters.timeout = 1000
 # client.parameters.outputs.duplicate = True  
 client.parameters.outputs.num_outputs = 0
